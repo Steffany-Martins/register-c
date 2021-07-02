@@ -1,0 +1,16 @@
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.exe
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.deps.json
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.runtimeconfig.json
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.runtimeconfig.dev.json
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.dll
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\ref\Tech-bank.dll
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\bin\Debug\net5.0\Tech-bank.pdb
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.csproj.AssemblyReference.cache
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.AssemblyInfoInputs.cache
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.AssemblyInfo.cs
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.csproj.CoreCompileInputs.cache
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.dll
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\ref\Tech-bank.dll
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.pdb
+C:\Users\Steffany\OneDrive\Projetos\Tech-bank\obj\Debug\net5.0\Tech-bank.genruntimeconfig.cache
